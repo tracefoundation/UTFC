@@ -6,7 +6,7 @@ Universal Tibetan Font Converter
 
 ## Synopsis
 
-The Universal Tibetan Font Converter was created by Tashi Tsering with funding from the Trace Foundation. The objective of the development is to provide the community a tool for converting files between different Tibetan encoding schemes with different file formats. The converter also can translate Tibetan script with different encodings to variant Wylie transliterations, and vice versa.
+The Universal Tibetan Font Converter was created by Tashi Tsering with funding from Trace Foundation. The objective of the development is to provide the community a tool for converting files between different Tibetan encoding schemes with different file formats. The converter also can translate Tibetan script with different encodings to variant Wylie transliterations, and vice versa.
 
 The converter covers 17 different Tibetan encoding schemes including 4 Tibetan transliteration schemes (ACIP, ALA-LC, THL Wylie, Wylie), Tibetan Unicode, and other 12 legacy Tibetan fonts including:
 
@@ -35,7 +35,7 @@ gcc Converter.c
 
 You can find an online version of the application at http://www.trace.org/utfc
 
-You can a standalone version from: http://www.yalasoo.com/English/docs/yalasoo_en_utfc.html
+You can download a standalone version from: http://www.yalasoo.com/English/docs/yalasoo_en_utfc.html
 
 ## Contributors
 
