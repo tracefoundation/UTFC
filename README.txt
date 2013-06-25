@@ -17,18 +17,18 @@ The Universal Tibetan Font Converter was created by Tashi Tsering with funding f
 
 The converter covers 17 different Tibetan encoding schemes including 4 Tibetan transliteration schemes (ACIP, ALA-LC, THL Wylie, Wylie), Tibetan Unicode, and other 12 legacy Tibetan fonts including:
 
-Sambhota 1.0 (Sama)
-Sambhota 2.0 (Dedris)
-Bandrida
-Tongyuan
-Beida Founder
-Huanguang
-LTibetan
-Jamyang
-TCRC Bod-Yig
-Tibetan Machine
-Tibetan Machine Web
-National Standard Extended
+*Sambhota 1.0 (Sama)
+*Sambhota 2.0 (Dedris)
+*Bandrida
+*Tongyuan
+*Beida Founder
+*Huanguang
+*LTibetan
+*Jamyang
+*TCRC Bod-Yig
+*Tibetan Machine
+*Tibetan Machine Web
+*National Standard Extended
 
 The converter also covers four common file formats including txt, Unicode txt, rich text file format (RTF) and HTML web page. You can convert file between arbitrary two encoding schemes from 16 ones mentioned above with certain file formats.
 
