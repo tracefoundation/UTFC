@@ -29,7 +29,17 @@ The converter has some bugs and additional information on the file format suppor
 
 ## Installation
 
-gcc Converter.c
+The application is programmed in C, you can compile the application with the following:
+
+gcc -o converter Converter_20100625.c
+
+In order to run the application use the following sintax:
+
+./converter INPUT_FILE OUTPUT_FILE INPUT_ENCODING OUTPUT_ENCODING INPUT_FORMT OUTPUT_FORMAT
+
+for example:
+
+./converter file.rtf file_converted.rtf Unicode Wylie rtf rtf
 
 ## Additional notes
 
