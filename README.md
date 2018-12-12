@@ -20,8 +20,30 @@ LTibetan
 Jamyang
 TCRC Bod-Yig
 Tibetan Machine
-Tibetan Machine Web
+Tibetan Machine Web 
 National Standard Extended
+
+Their name used in the command are:
+
+OldSambhota
+NewSambhota
+Bzd
+Ty
+Fz
+Hg
+LTibetan
+Jamyang
+TCRCBodYig
+TM
+TMW
+NS
+
+Also include others
+
+ACIP
+Wylie
+THDLWylie
+LCWylie
 
 The converter also covers four common file formats including txt, Unicode txt, rich text file format (RTF) and HTML web page. You can convert file between arbitrary two encoding schemes from 16 ones mentioned above with certain file formats.
 
