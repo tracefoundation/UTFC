@@ -20,8 +20,30 @@ LTibetan
 Jamyang
 TCRC Bod-Yig
 Tibetan Machine
-Tibetan Machine Web
+Tibetan Machine Web 
 National Standard Extended
+
+Their name used in the command are:
+
+OldSambhota
+NewSambhota
+Bzd
+Ty
+Fz
+Hg
+LTibetan
+Jamyang
+TCRCBodYig
+TM
+TMW
+NS
+
+Also include others
+
+ACIP
+Wylie
+THDLWylie
+LCWylie
 
 The converter also covers four common file formats including txt, Unicode txt, rich text file format (RTF) and HTML web page. You can convert file between arbitrary two encoding schemes from 16 ones mentioned above with certain file formats.
 
@@ -31,7 +53,7 @@ The converter has some bugs and additional information on the file format suppor
 
 The application is programmed in C, you can compile the application with the following:
 
-gcc -o converter Converter_20100625.c
+gcc -o converter Converter_20181128.c
 
 In order to run the application use the following sintax:
 
@@ -40,6 +62,19 @@ In order to run the application use the following sintax:
 for example:
 
 ./converter file.rtf file_converted.rtf Unicode Wylie rtf rtf
+
+For converting to Unicode:
+
+By default, Unicode will use "Microsoft Himalaya" font in both Unix and Windows.
+
+If prefer other Unicode, such as "SambhotaUnicode" and convert from rtf to rtf, the conversion 
+command will be: 
+
+./converter file.rtf file_converted.rtf NewSambhota SambhotaUnicode rtf rtf
+
+If not from rtf to rtf,
+you can just use "Unicode" and edit the target file to change "Microsoft Himalaya" to the the 
+Unicode font you prefer, such as "SambhotaUnicode"
 
 ## Additional notes
 
